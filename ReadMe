@@ -1,0 +1,16 @@
+
+
+Execution Commands
+
+Compiling Truffle Code
+
+Run truffle compile
+
+Migrate Truffle Code
+
+Run truffle migrate --reset
+
+Installing React Node Modules Inside Funds Folder
+
+Run npm install 
+
